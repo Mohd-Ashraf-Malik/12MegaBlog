@@ -83,9 +83,4 @@ function Signup() {
     </div>
   )
 }
-
-<<<<<<< HEAD
 export default Signup
-=======
-export default Signup
->>>>>>> 92ed4dd0c769a0001a8b747d80a105f0c48fdb1d
