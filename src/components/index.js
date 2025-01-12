@@ -8,7 +8,7 @@ import Button from "./Button";
 import Input from "./Input"
 import Select from "./Select"
 import RTE from "./RTE";
-import SignUp from "./SignUp";
+import Signup from "./Signup";
 import PostCard from './PostCard.jsx'
 import PostForm from "./post-form/PostForm";
 import AuthLayout from './AuthLayout'
@@ -24,7 +24,7 @@ export {
     Input,
     Select,
     RTE,
-    SignUp,
+    Signup,
     PostCard,
     PostForm,
     AuthLayout
