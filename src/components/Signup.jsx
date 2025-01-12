@@ -6,7 +6,7 @@ import {login} from '../store/authSlice'
 import { useForm } from 'react-hook-form'
 import { useDispatch } from 'react-redux'
 
-function SignUp() {
+function Signup() {
     const navigate = useNavigate();
     const dispatch = useDispatch();
     const {register,handleSubmit} = useForm();
@@ -84,4 +84,4 @@ function SignUp() {
   )
 }
 
-export default SignUp
+export default Signup
