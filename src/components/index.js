@@ -8,7 +8,11 @@ import Button from "./Button";
 import Input from "./Input"
 import Select from "./Select"
 import RTE from "./RTE";
+<<<<<<< HEAD
 import Signup from "./Signup";
+=======
+import Signup from "./SignUp";
+>>>>>>> 92ed4dd0c769a0001a8b747d80a105f0c48fdb1d
 import PostCard from './PostCard.jsx'
 import PostForm from "./post-form/PostForm";
 import AuthLayout from './AuthLayout'
